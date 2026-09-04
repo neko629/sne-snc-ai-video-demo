@@ -1,0 +1,6 @@
+{
+  "image": [{"node": "1", "input": "image"}],
+  "prompt": [{"node": "2", "input": "text"}],
+  "seed": [{"node": "3", "input": "noise_seed"}],
+  "output": [{"node": "4", "input": "filename_prefix"}]
+}

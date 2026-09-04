@@ -1,0 +1,26 @@
+[
+  {
+    "state": "success",
+    "metadata_only": true,
+    "job_id": "demo-job-1",
+    "outputs": {
+      "4": {
+        "videos": [
+          {
+            "filename": "mock-result.mp4",
+            "subfolder": "mock",
+            "type": "output"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job_id": "demo-job-2",
+    "state": "failure_detected"
+  },
+  {
+    "job_id": "demo-job-3",
+    "state": "timeout_detected"
+  }
+]

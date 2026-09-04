@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.youtube_credentials/
+token*.json
+client_secret*.json
+*.safetensors
+*.gguf
+*.ckpt

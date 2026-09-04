@@ -1,0 +1,6 @@
+{
+  "1": {"class_type": "DemoImage", "inputs": {"image": "placeholder.png"}},
+  "2": {"class_type": "DemoText", "inputs": {"text": "placeholder"}},
+  "3": {"class_type": "DemoSeed", "inputs": {"noise_seed": 0}},
+  "4": {"class_type": "DemoOutput", "inputs": {"filename_prefix": "placeholder"}}
+}

@@ -1,0 +1,53 @@
+{
+  "scope": "Reduced demo with synthetic fixtures and a loopback mock service",
+  "external_service_calls": false,
+  "model_inference": false,
+  "video_generated": false,
+  "checks": [
+    {
+      "name": "workflow_bindings_preserve_template",
+      "passed": true
+    },
+    {
+      "name": "missing_node_is_rejected",
+      "passed": true
+    },
+    {
+      "name": "mock_submit_pending_success",
+      "passed": true
+    },
+    {
+      "name": "mock_failure_is_reported",
+      "passed": true
+    },
+    {
+      "name": "mock_timeout_is_bounded",
+      "passed": true
+    },
+    {
+      "name": "subtitle_offset_applied",
+      "passed": true
+    },
+    {
+      "name": "subtitle_text_preserved",
+      "passed": true
+    },
+    {
+      "name": "reversed_timestamp_rejected",
+      "passed": true
+    },
+    {
+      "name": "three_line_sample_valid",
+      "passed": true
+    },
+    {
+      "name": "missing_pinyin_detected",
+      "passed": true
+    },
+    {
+      "name": "missing_translation_detected",
+      "passed": true
+    }
+  ],
+  "passed": true
+}

@@ -1,0 +1,6 @@
+{
+  "image": "example.png",
+  "prompt": "Generic demo input; no production prompt is included.",
+  "seed": 42,
+  "output": "demo/sample"
+}

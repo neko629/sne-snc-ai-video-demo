@@ -48,6 +48,6 @@ cases/        完成态封面与成片片段
 docs/         架构、接口、展示范围与验证说明
 ```
 
-[完整项目的设计与演进](docs/project-design-process.md) · [Demo 架构](docs/architecture.md) · [展示范围](docs/scope.md) · [验证](docs/validation.md)
+[完整项目的设计与演进](docs/design-process.md) · [Demo 架构](docs/architecture.md) · [展示范围](docs/scope.md) · [验证](docs/validation.md)
 
 代码围绕真实项目中的接口模式重新整理，保留可运行的通用逻辑；不包含完整生产系统。仓库未附开源许可，代码与素材的进一步使用需另行确认。
